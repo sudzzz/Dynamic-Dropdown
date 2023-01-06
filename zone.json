@@ -1,0 +1,42 @@
+[
+    {
+        "division" : "NR",
+        "zone" : "Ambala"
+    },
+    {
+        "division" : "NR",
+        "zone" : "Delhi"
+    },
+    {
+        "division" : "NR",
+        "zone" : "Ferozpur"
+    },
+    {
+        "division" : "NR",
+        "zone" : "Lucknow"
+    },
+    {
+        "division" : "NR",
+        "zone" : "Moradabad"
+    },
+    {
+        "division" : "CR",
+        "zone" : "Nagpur"
+    },
+    {
+        "division" : "CR",
+        "zone" : "Pune"
+    },
+    {
+        "division" : "CR",
+        "zone" : "Mumbai"
+    },
+    {
+        "division" : "CR",
+        "zone" : "Bhusawal"
+    },
+    {
+        "division" : "CR",
+        "zone" : "Solapur"
+    }
+]

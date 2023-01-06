@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "NR",
+        "value" : "Northern Railway"
+    },
+    {
+        "id" : "CR",
+        "value" : "Central Railway"
+    },
+    {
+        "id" : "ER",
+        "value" : "Eastern Railway"
+    },
+    {
+        "id" : "SR",
+        "value" : "Southern Railway"
+    }
+]
